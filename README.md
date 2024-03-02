@@ -17,3 +17,12 @@ streamlit run app.py
 ```
 
 This will launch the app in your default web browser. You can then upload an image of cells to analyze and adjust the various settings to customize the analysis. Once you are satisfied with the results, you can export the measurements to a CSV file for further analysis.
+
+## Limitations
+
+- The application includes only static data for training the machine learning model.
+	> For learning purposes any individual can take the help of this app and can use backend support for dynamic data while integrating DB sources.
+
+- To access the Measurement Guide, please Download the PDF and use the absolute path of your PDF in the source code of app.py
+
+## Screenshots
