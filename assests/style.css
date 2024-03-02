@@ -1,0 +1,36 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+div.css-1fjr796[data-testid="column"] > div > div[data-testid="stVerticalBlock"]{
+    background-color: #061634;
+    padding: 10px 15px;
+    width: fit-content;
+    height: fit-content;
+}
+div.stButton > button[kind="secondary"]{
+    margin-top: 1rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+.st-cx{
+    padding-top: 2rem;
+    background: none;
+}
+span.benign{
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    margin-left: .5rem;
+    padding: 7px 10px;
+    background: rgb(24, 126, 24);
+    border-radius: 6px;
+}
+span.malicious{
+    font-family: 'poppins', sans-serif;
+    font-weight: 400;
+    font-size: larger;
+    margin-left: .5rem;
+    padding: 7px 10px;
+    background: rgb(157, 26, 26);
+    border-radius: 6px;
+}
