@@ -26,3 +26,11 @@ This will launch the app in your default web browser. You can then upload an ima
 - To access the Measurement Guide, please Download the PDF and use the absolute path of your PDF in the source code of app.py
 
 ## Screenshots
+
+![Alt text](https://i.ibb.co/jVDBhTN/Screenshot-2024-03-02-105442.jpg)
+
+![Alt text](https://i.ibb.co/Cbj4x6F/Screenshot-2024-03-02-105359.jpg)
+
+![Alt text](https://i.ibb.co/80ZGdfK/Screenshot-2024-03-02-105322.jpg)
+
+![Alt text](https://i.ibb.co/6ny1DtM/Screenshot-2024-03-02-105212.jpg)
